@@ -1,0 +1,17 @@
+{
+  "name": "MenuFramework",
+  "version": "1.0.0",
+  "description": "Single-encoder/button menu framework for ESP32 + U8G2 128x64 OLED displays.",
+  "keywords": ["menu", "u8g2", "oled", "esp32", "encoder"],
+  "authors": {
+    "name": "Matias González - CIBIO"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "espressif32",
+  "headers": "MenuFramework.h"
+}
